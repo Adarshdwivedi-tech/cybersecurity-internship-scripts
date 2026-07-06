@@ -11,7 +11,7 @@
     - LED 3 -> Pin 3 (+ resistor to GND)
 
   Built and simulated in Tinkercad, then tested on real Arduino Uno
-  hardware with a single LED (pin-based logic identical, simplified
+  hardware with a LED (pin-based logic identical, simplified
   circuit).
 */
 
