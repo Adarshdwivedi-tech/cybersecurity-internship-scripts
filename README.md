@@ -18,7 +18,7 @@ Python scripts written during a 15-day Cybersecurity & IoT internship (June 2026
 
 | File | Description |
 |---|---|
-| `led_blink.ino` | Alternates 3 LEDs (pins 3, 4, 5) on and off every second. Built and tested in Tinkercad simulation, then verified on real Arduino Uno hardware with a simplified single-LED circuit. |
+| `led_blink.ino` | Alternates 3 LEDs (pins 3, 4, 5) on and off every second. Built and tested in Tinkercad simulation, then verified on real Arduino Uno hardware with a simplified LED circuit. |
 
 ## Requirements
 
